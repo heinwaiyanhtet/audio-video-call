@@ -10,10 +10,10 @@ import {
 } from '@stream-io/video-react-sdk';
 
 // Updated Constants
-const apiKey = 'dz5f4d5kzrue';
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiZ2VudGxlLWRldy00IiwiZXhwIjoxNzM0ODk1NzM2fQ.nneU6_qq1GAV2mUxlGmKj0PrnminqQ2DBajDVsfHm14';
-const userId = 'gentle-dew-4';
-const callId = 'yj0SzmiPfhan';
+const apiKey = 'mmhfdzb5evj2';
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Byb250by5nZXRzdHJlYW0uaW8iLCJzdWIiOiJ1c2VyL0x1bWluYXJhX1VuZHVsaSIsInVzZXJfaWQiOiJMdW1pbmFyYV9VbmR1bGkiLCJ2YWxpZGl0eV9pbl9zZWNvbmRzIjo2MDQ4MDAsImlhdCI6MTc0MzAwNjI0OSwiZXhwIjoxNzQzNjExMDQ5fQ.-R32BlSjJxZs0iZmbjgR411cuMQMvufcjpS6kOKBfnE';
+const userId = 'Luminara_Unduli';
+const callId = 'eLmvVULpSnlc';
 
 // Main App Component
 export default function App() {
