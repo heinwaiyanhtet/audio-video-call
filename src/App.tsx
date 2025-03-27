@@ -11,9 +11,9 @@ import {
 
 // Updated Constants
 const apiKey = 'mmhfdzb5evj2';
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Byb250by5nZXRzdHJlYW0uaW8iLCJzdWIiOiJ1c2VyL0x1bWluYXJhX1VuZHVsaSIsInVzZXJfaWQiOiJMdW1pbmFyYV9VbmR1bGkiLCJ2YWxpZGl0eV9pbl9zZWNvbmRzIjo2MDQ4MDAsImlhdCI6MTc0MzAwNjI0OSwiZXhwIjoxNzQzNjExMDQ5fQ.-R32BlSjJxZs0iZmbjgR411cuMQMvufcjpS6kOKBfnE';
-const userId = 'Luminara_Unduli';
-const callId = 'eLmvVULpSnlc';
+const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Byb250by5nZXRzdHJlYW0uaW8iLCJzdWIiOiJ1c2VyL0FuYWtpbl9Tb2xvIiwidXNlcl9pZCI6IkFuYWtpbl9Tb2xvIiwidmFsaWRpdHlfaW5fc2Vjb25kcyI6NjA0ODAwLCJpYXQiOjE3NDMwODg4NTYsImV4cCI6MTc0MzY5MzY1Nn0.m3fOYXOmPnnxPp3l9-dOD-scl0fpFGfmnzRx7W5yb9Y';
+const userId = 'Anakin_Solo';
+const callId = '6zClVdBwcjIV';
 
 // Main App Component
 export default function App() {
@@ -65,8 +65,8 @@ const Call = () => {
     apiKey,
     user: {
       id: userId,
-      name: 'gentle',
-      image: `https://getstream.io/random_svg/?id=${userId}&name=gentle`,
+      name: 'Oliver',
+      image: 'https://getstream.io/random_svg/?id=oliver&name=Oliver',
     },
     token,
   });
